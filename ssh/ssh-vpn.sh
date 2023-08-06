@@ -231,7 +231,7 @@ echo "/usr/sbin/nologin" >> /etc/shells
 cat> /etc/funny/banner.conf << END
 <br>
 <font color="blue"><b>===============================</br></font><br>
-<font color="red"><b>********  Funny VPN  ********</b></font><br>
+<font color="red"><b>********  ANANG VPN  ********</b></font><br>
 <font color="blue"><b>===============================</br></font><br>
 END
 /etc/init.d/dropbear restart
